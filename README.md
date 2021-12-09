@@ -5,9 +5,9 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yasmin&theme=dracula)](https://github.com/yasmince/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasmince&theme=dracula)](https://github.com/yasmince/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmin&layout=compact&theme=dracula)](https://github.com/yasmince/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasmince&layout=compact&theme=dracula)](https://github.com/yasmince/github-readme-stats)
 
 <!---
 yasmince/yasmince is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
