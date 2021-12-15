@@ -1,5 +1,5 @@
 - 👋 Olá, sou a Yasmin
-- 📕 Sou formada em Engenharia da Computação...
+- 📕 Sou formada em Engenharia da Computação.
 - 🖥️ Estou em transição de Infraestrutura para o Desenvolvimento...
 
 
