@@ -13,7 +13,9 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yasmince&show_icons=true&theme=dark&line_height=33" alt="Yasmince's github stats"/>
 </a>
 
-
+<a href="https://github.com/yasmince">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmince&theme=dark&hide_langs_below=1" />
+</a>
 
 <br>
 
